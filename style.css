@@ -1,0 +1,14 @@
+h1, h2, h3, h4 {font-size: 36px;
+    font-weight: bold;
+}
+p {font-size: 18px;
+    line-height: 32px;
+
+}
+#title {width: 780px;
+    height: 500px;
+    background-image: url(header.jpg);
+    font-size: 36px;
+    font-weight: normal;
+}
+
